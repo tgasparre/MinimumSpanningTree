@@ -1,7 +1,6 @@
 /**
  * Tatiana Gasparre
  * CPSC350-01
- * A6 - Spanning the Gamut
  */
 #ifndef P_QUEUE_H
 #define p_QUEUE_H
