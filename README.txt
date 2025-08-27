@@ -1,6 +1,4 @@
 Tatiana Gasparre
-2429174
-gasparre@chapman.edu
 CPSC350-01
 A6 - Spanning the Gamut
 
