@@ -1,7 +1,6 @@
 /**
  * Tatiana Gasparre
  * CPSC350-01
- * A6 - Spanning the Gamut
  */
 #ifndef LIST_NODE_H
 #define LIST_NODE_H
