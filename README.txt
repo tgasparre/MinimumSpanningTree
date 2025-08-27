@@ -1,6 +1,5 @@
 Tatiana Gasparre
 CPSC350-01
-A6 - Spanning the Gamut
 
 Files Submitted:
 Provided on Canvas - DblList.h, ListNode.h, PQueue.h
